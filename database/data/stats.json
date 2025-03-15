@@ -1,0 +1,13 @@
+{
+  "total": 100,
+  "by_gender": {
+    "männlich": 34,
+    "weiblich": 33,
+    "gemischt": 33
+  },
+  "by_type": {
+    "stationär": 34,
+    "teilstationär": 67,
+    "heilpädagogisch": 33
+  }
+}

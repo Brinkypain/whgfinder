@@ -1,0 +1,4536 @@
+[
+  {
+    "name": "Wohngruppe 1",
+    "traeger": {
+      "name": "Träger 1",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 1",
+        "telefon": "01234-56789",
+        "email": "kontakt1@traeger.de",
+        "website": "https://traeger1.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 1",
+      "plz": "10000",
+      "ort": "Stadt 1",
+      "bundesland": "Baden-Württemberg",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 8.0
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 2",
+    "traeger": {
+      "name": "Träger 1",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 1",
+        "telefon": "01234-56789",
+        "email": "kontakt1@traeger.de",
+        "website": "https://traeger1.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 2",
+      "plz": "10089",
+      "ort": "Stadt 2",
+      "bundesland": "Bayern",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 8.7
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 3",
+    "traeger": {
+      "name": "Träger 1",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 1",
+        "telefon": "01234-56789",
+        "email": "kontakt1@traeger.de",
+        "website": "https://traeger1.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 3",
+      "plz": "10178",
+      "ort": "Stadt 3",
+      "bundesland": "Berlin",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 9.4
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 4",
+    "traeger": {
+      "name": "Träger 1",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 1",
+        "telefon": "01234-56789",
+        "email": "kontakt1@traeger.de",
+        "website": "https://traeger1.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 4",
+      "plz": "10267",
+      "ort": "Stadt 4",
+      "bundesland": "Brandenburg",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 10.1
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 5",
+    "traeger": {
+      "name": "Träger 1",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 1",
+        "telefon": "01234-56789",
+        "email": "kontakt1@traeger.de",
+        "website": "https://traeger1.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 5",
+      "plz": "10356",
+      "ort": "Stadt 5",
+      "bundesland": "Bremen",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 10.8
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 6",
+    "traeger": {
+      "name": "Träger 2",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 2",
+        "telefon": "01234-56789",
+        "email": "kontakt2@traeger.de",
+        "website": "https://traeger2.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 6",
+      "plz": "10445",
+      "ort": "Stadt 6",
+      "bundesland": "Hamburg",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 11.5
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 7",
+    "traeger": {
+      "name": "Träger 2",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 2",
+        "telefon": "01234-56789",
+        "email": "kontakt2@traeger.de",
+        "website": "https://traeger2.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 7",
+      "plz": "10534",
+      "ort": "Stadt 7",
+      "bundesland": "Hessen",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 12.2
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 8",
+    "traeger": {
+      "name": "Träger 2",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 2",
+        "telefon": "01234-56789",
+        "email": "kontakt2@traeger.de",
+        "website": "https://traeger2.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 8",
+      "plz": "10623",
+      "ort": "Stadt 8",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 12.899999999999999
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 9",
+    "traeger": {
+      "name": "Träger 2",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 2",
+        "telefon": "01234-56789",
+        "email": "kontakt2@traeger.de",
+        "website": "https://traeger2.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 9",
+      "plz": "10712",
+      "ort": "Stadt 9",
+      "bundesland": "Niedersachsen",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 13.6
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 10",
+    "traeger": {
+      "name": "Träger 2",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 2",
+        "telefon": "01234-56789",
+        "email": "kontakt2@traeger.de",
+        "website": "https://traeger2.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 10",
+      "plz": "10801",
+      "ort": "Stadt 10",
+      "bundesland": "Nordrhein-Westfalen",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 14.3
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 11",
+    "traeger": {
+      "name": "Träger 3",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 3",
+        "telefon": "02234-56789",
+        "email": "kontakt3@traeger.de",
+        "website": "https://traeger3.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 11",
+      "plz": "10890",
+      "ort": "Stadt 11",
+      "bundesland": "Rheinland-Pfalz",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 15.0
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 12",
+    "traeger": {
+      "name": "Träger 3",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 3",
+        "telefon": "02234-56789",
+        "email": "kontakt3@traeger.de",
+        "website": "https://traeger3.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 12",
+      "plz": "10979",
+      "ort": "Stadt 12",
+      "bundesland": "Saarland",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 15.7
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 13",
+    "traeger": {
+      "name": "Träger 3",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 3",
+        "telefon": "02234-56789",
+        "email": "kontakt3@traeger.de",
+        "website": "https://traeger3.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 13",
+      "plz": "11068",
+      "ort": "Stadt 13",
+      "bundesland": "Sachsen",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 16.4
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 14",
+    "traeger": {
+      "name": "Träger 3",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 3",
+        "telefon": "02234-56789",
+        "email": "kontakt3@traeger.de",
+        "website": "https://traeger3.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 14",
+      "plz": "11157",
+      "ort": "Stadt 14",
+      "bundesland": "Sachsen-Anhalt",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 17.1
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 15",
+    "traeger": {
+      "name": "Träger 3",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 3",
+        "telefon": "02234-56789",
+        "email": "kontakt3@traeger.de",
+        "website": "https://traeger3.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 15",
+      "plz": "11246",
+      "ort": "Stadt 15",
+      "bundesland": "Schleswig-Holstein",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 17.799999999999997
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 16",
+    "traeger": {
+      "name": "Träger 4",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 4",
+        "telefon": "02234-56789",
+        "email": "kontakt4@traeger.de",
+        "website": "https://traeger4.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 16",
+      "plz": "11335",
+      "ort": "Stadt 16",
+      "bundesland": "Thüringen",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 8.0
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 17",
+    "traeger": {
+      "name": "Träger 4",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 4",
+        "telefon": "02234-56789",
+        "email": "kontakt4@traeger.de",
+        "website": "https://traeger4.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 17",
+      "plz": "11424",
+      "ort": "Stadt 17",
+      "bundesland": "Baden-Württemberg",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 8.7
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 18",
+    "traeger": {
+      "name": "Träger 4",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 4",
+        "telefon": "02234-56789",
+        "email": "kontakt4@traeger.de",
+        "website": "https://traeger4.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 18",
+      "plz": "11513",
+      "ort": "Stadt 18",
+      "bundesland": "Bayern",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 9.4
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 19",
+    "traeger": {
+      "name": "Träger 4",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 4",
+        "telefon": "02234-56789",
+        "email": "kontakt4@traeger.de",
+        "website": "https://traeger4.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 19",
+      "plz": "11602",
+      "ort": "Stadt 19",
+      "bundesland": "Berlin",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 10.1
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 20",
+    "traeger": {
+      "name": "Träger 4",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 4",
+        "telefon": "02234-56789",
+        "email": "kontakt4@traeger.de",
+        "website": "https://traeger4.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 20",
+      "plz": "11691",
+      "ort": "Stadt 20",
+      "bundesland": "Brandenburg",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 10.8
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 21",
+    "traeger": {
+      "name": "Träger 5",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 5",
+        "telefon": "03234-56789",
+        "email": "kontakt5@traeger.de",
+        "website": "https://traeger5.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 21",
+      "plz": "11780",
+      "ort": "Stadt 1",
+      "bundesland": "Bremen",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 11.5
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 22",
+    "traeger": {
+      "name": "Träger 5",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 5",
+        "telefon": "03234-56789",
+        "email": "kontakt5@traeger.de",
+        "website": "https://traeger5.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 22",
+      "plz": "11869",
+      "ort": "Stadt 2",
+      "bundesland": "Hamburg",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 12.2
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 23",
+    "traeger": {
+      "name": "Träger 5",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 5",
+        "telefon": "03234-56789",
+        "email": "kontakt5@traeger.de",
+        "website": "https://traeger5.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 23",
+      "plz": "11958",
+      "ort": "Stadt 3",
+      "bundesland": "Hessen",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 12.899999999999999
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 24",
+    "traeger": {
+      "name": "Träger 5",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 5",
+        "telefon": "03234-56789",
+        "email": "kontakt5@traeger.de",
+        "website": "https://traeger5.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 24",
+      "plz": "12047",
+      "ort": "Stadt 4",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 13.6
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 25",
+    "traeger": {
+      "name": "Träger 5",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 5",
+        "telefon": "03234-56789",
+        "email": "kontakt5@traeger.de",
+        "website": "https://traeger5.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 25",
+      "plz": "12136",
+      "ort": "Stadt 5",
+      "bundesland": "Niedersachsen",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 14.3
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 26",
+    "traeger": {
+      "name": "Träger 6",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 6",
+        "telefon": "03234-56789",
+        "email": "kontakt6@traeger.de",
+        "website": "https://traeger6.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 26",
+      "plz": "12225",
+      "ort": "Stadt 6",
+      "bundesland": "Nordrhein-Westfalen",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 15.0
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 27",
+    "traeger": {
+      "name": "Träger 6",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 6",
+        "telefon": "03234-56789",
+        "email": "kontakt6@traeger.de",
+        "website": "https://traeger6.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 27",
+      "plz": "12314",
+      "ort": "Stadt 7",
+      "bundesland": "Rheinland-Pfalz",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 15.7
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 28",
+    "traeger": {
+      "name": "Träger 6",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 6",
+        "telefon": "03234-56789",
+        "email": "kontakt6@traeger.de",
+        "website": "https://traeger6.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 28",
+      "plz": "12403",
+      "ort": "Stadt 8",
+      "bundesland": "Saarland",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 16.4
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 29",
+    "traeger": {
+      "name": "Träger 6",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 6",
+        "telefon": "03234-56789",
+        "email": "kontakt6@traeger.de",
+        "website": "https://traeger6.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 29",
+      "plz": "12492",
+      "ort": "Stadt 9",
+      "bundesland": "Sachsen",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 17.1
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 30",
+    "traeger": {
+      "name": "Träger 6",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 6",
+        "telefon": "03234-56789",
+        "email": "kontakt6@traeger.de",
+        "website": "https://traeger6.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 30",
+      "plz": "12581",
+      "ort": "Stadt 10",
+      "bundesland": "Sachsen-Anhalt",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 17.799999999999997
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 31",
+    "traeger": {
+      "name": "Träger 7",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 7",
+        "telefon": "04234-56789",
+        "email": "kontakt7@traeger.de",
+        "website": "https://traeger7.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 31",
+      "plz": "12670",
+      "ort": "Stadt 11",
+      "bundesland": "Schleswig-Holstein",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 8.0
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 32",
+    "traeger": {
+      "name": "Träger 7",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 7",
+        "telefon": "04234-56789",
+        "email": "kontakt7@traeger.de",
+        "website": "https://traeger7.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 32",
+      "plz": "12759",
+      "ort": "Stadt 12",
+      "bundesland": "Thüringen",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 8.7
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 33",
+    "traeger": {
+      "name": "Träger 7",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 7",
+        "telefon": "04234-56789",
+        "email": "kontakt7@traeger.de",
+        "website": "https://traeger7.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 33",
+      "plz": "12848",
+      "ort": "Stadt 13",
+      "bundesland": "Baden-Württemberg",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 9.4
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 34",
+    "traeger": {
+      "name": "Träger 7",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 7",
+        "telefon": "04234-56789",
+        "email": "kontakt7@traeger.de",
+        "website": "https://traeger7.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 34",
+      "plz": "12937",
+      "ort": "Stadt 14",
+      "bundesland": "Bayern",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 10.1
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 35",
+    "traeger": {
+      "name": "Träger 7",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 7",
+        "telefon": "04234-56789",
+        "email": "kontakt7@traeger.de",
+        "website": "https://traeger7.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 35",
+      "plz": "13026",
+      "ort": "Stadt 15",
+      "bundesland": "Berlin",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 10.8
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 36",
+    "traeger": {
+      "name": "Träger 8",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 8",
+        "telefon": "04234-56789",
+        "email": "kontakt8@traeger.de",
+        "website": "https://traeger8.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 36",
+      "plz": "13115",
+      "ort": "Stadt 16",
+      "bundesland": "Brandenburg",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 11.5
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 37",
+    "traeger": {
+      "name": "Träger 8",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 8",
+        "telefon": "04234-56789",
+        "email": "kontakt8@traeger.de",
+        "website": "https://traeger8.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 37",
+      "plz": "13204",
+      "ort": "Stadt 17",
+      "bundesland": "Bremen",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 12.2
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 38",
+    "traeger": {
+      "name": "Träger 8",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 8",
+        "telefon": "04234-56789",
+        "email": "kontakt8@traeger.de",
+        "website": "https://traeger8.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 38",
+      "plz": "13293",
+      "ort": "Stadt 18",
+      "bundesland": "Hamburg",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 12.899999999999999
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 39",
+    "traeger": {
+      "name": "Träger 8",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 8",
+        "telefon": "04234-56789",
+        "email": "kontakt8@traeger.de",
+        "website": "https://traeger8.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 39",
+      "plz": "13382",
+      "ort": "Stadt 19",
+      "bundesland": "Hessen",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 13.6
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 40",
+    "traeger": {
+      "name": "Träger 8",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 8",
+        "telefon": "04234-56789",
+        "email": "kontakt8@traeger.de",
+        "website": "https://traeger8.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 40",
+      "plz": "13471",
+      "ort": "Stadt 20",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 14.3
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 41",
+    "traeger": {
+      "name": "Träger 9",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 9",
+        "telefon": "05234-56789",
+        "email": "kontakt9@traeger.de",
+        "website": "https://traeger9.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 41",
+      "plz": "13560",
+      "ort": "Stadt 1",
+      "bundesland": "Niedersachsen",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 15.0
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 42",
+    "traeger": {
+      "name": "Träger 9",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 9",
+        "telefon": "05234-56789",
+        "email": "kontakt9@traeger.de",
+        "website": "https://traeger9.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 42",
+      "plz": "13649",
+      "ort": "Stadt 2",
+      "bundesland": "Nordrhein-Westfalen",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 15.7
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 43",
+    "traeger": {
+      "name": "Träger 9",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 9",
+        "telefon": "05234-56789",
+        "email": "kontakt9@traeger.de",
+        "website": "https://traeger9.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 43",
+      "plz": "13738",
+      "ort": "Stadt 3",
+      "bundesland": "Rheinland-Pfalz",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 16.4
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 44",
+    "traeger": {
+      "name": "Träger 9",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 9",
+        "telefon": "05234-56789",
+        "email": "kontakt9@traeger.de",
+        "website": "https://traeger9.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 44",
+      "plz": "13827",
+      "ort": "Stadt 4",
+      "bundesland": "Saarland",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 17.1
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 45",
+    "traeger": {
+      "name": "Träger 9",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 9",
+        "telefon": "05234-56789",
+        "email": "kontakt9@traeger.de",
+        "website": "https://traeger9.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 45",
+      "plz": "13916",
+      "ort": "Stadt 5",
+      "bundesland": "Sachsen",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 17.799999999999997
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 46",
+    "traeger": {
+      "name": "Träger 10",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 10",
+        "telefon": "05234-56789",
+        "email": "kontakt10@traeger.de",
+        "website": "https://traeger10.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 46",
+      "plz": "14005",
+      "ort": "Stadt 6",
+      "bundesland": "Sachsen-Anhalt",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 8.0
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 47",
+    "traeger": {
+      "name": "Träger 10",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 10",
+        "telefon": "05234-56789",
+        "email": "kontakt10@traeger.de",
+        "website": "https://traeger10.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 47",
+      "plz": "14094",
+      "ort": "Stadt 7",
+      "bundesland": "Schleswig-Holstein",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 8.7
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 48",
+    "traeger": {
+      "name": "Träger 10",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 10",
+        "telefon": "05234-56789",
+        "email": "kontakt10@traeger.de",
+        "website": "https://traeger10.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 48",
+      "plz": "14183",
+      "ort": "Stadt 8",
+      "bundesland": "Thüringen",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 9.4
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 49",
+    "traeger": {
+      "name": "Träger 10",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 10",
+        "telefon": "05234-56789",
+        "email": "kontakt10@traeger.de",
+        "website": "https://traeger10.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 49",
+      "plz": "14272",
+      "ort": "Stadt 9",
+      "bundesland": "Baden-Württemberg",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 10.1
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 50",
+    "traeger": {
+      "name": "Träger 10",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 10",
+        "telefon": "05234-56789",
+        "email": "kontakt10@traeger.de",
+        "website": "https://traeger10.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 50",
+      "plz": "14361",
+      "ort": "Stadt 10",
+      "bundesland": "Bayern",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 10.8
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 51",
+    "traeger": {
+      "name": "Träger 11",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 11",
+        "telefon": "06234-56789",
+        "email": "kontakt11@traeger.de",
+        "website": "https://traeger11.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 51",
+      "plz": "14450",
+      "ort": "Stadt 11",
+      "bundesland": "Berlin",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 11.5
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 52",
+    "traeger": {
+      "name": "Träger 11",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 11",
+        "telefon": "06234-56789",
+        "email": "kontakt11@traeger.de",
+        "website": "https://traeger11.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 52",
+      "plz": "14539",
+      "ort": "Stadt 12",
+      "bundesland": "Brandenburg",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 12.2
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 53",
+    "traeger": {
+      "name": "Träger 11",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 11",
+        "telefon": "06234-56789",
+        "email": "kontakt11@traeger.de",
+        "website": "https://traeger11.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 53",
+      "plz": "14628",
+      "ort": "Stadt 13",
+      "bundesland": "Bremen",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 12.899999999999999
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 54",
+    "traeger": {
+      "name": "Träger 11",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 11",
+        "telefon": "06234-56789",
+        "email": "kontakt11@traeger.de",
+        "website": "https://traeger11.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 54",
+      "plz": "14717",
+      "ort": "Stadt 14",
+      "bundesland": "Hamburg",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 13.6
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 55",
+    "traeger": {
+      "name": "Träger 11",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 11",
+        "telefon": "06234-56789",
+        "email": "kontakt11@traeger.de",
+        "website": "https://traeger11.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 55",
+      "plz": "14806",
+      "ort": "Stadt 15",
+      "bundesland": "Hessen",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 14.3
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 56",
+    "traeger": {
+      "name": "Träger 12",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 12",
+        "telefon": "06234-56789",
+        "email": "kontakt12@traeger.de",
+        "website": "https://traeger12.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 56",
+      "plz": "14895",
+      "ort": "Stadt 16",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 15.0
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 57",
+    "traeger": {
+      "name": "Träger 12",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 12",
+        "telefon": "06234-56789",
+        "email": "kontakt12@traeger.de",
+        "website": "https://traeger12.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 57",
+      "plz": "14984",
+      "ort": "Stadt 17",
+      "bundesland": "Niedersachsen",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 15.7
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 58",
+    "traeger": {
+      "name": "Träger 12",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 12",
+        "telefon": "06234-56789",
+        "email": "kontakt12@traeger.de",
+        "website": "https://traeger12.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 58",
+      "plz": "15073",
+      "ort": "Stadt 18",
+      "bundesland": "Nordrhein-Westfalen",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 16.4
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 59",
+    "traeger": {
+      "name": "Träger 12",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 12",
+        "telefon": "06234-56789",
+        "email": "kontakt12@traeger.de",
+        "website": "https://traeger12.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 59",
+      "plz": "15162",
+      "ort": "Stadt 19",
+      "bundesland": "Rheinland-Pfalz",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 17.1
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 60",
+    "traeger": {
+      "name": "Träger 12",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 12",
+        "telefon": "06234-56789",
+        "email": "kontakt12@traeger.de",
+        "website": "https://traeger12.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 60",
+      "plz": "15251",
+      "ort": "Stadt 20",
+      "bundesland": "Saarland",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 17.799999999999997
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 61",
+    "traeger": {
+      "name": "Träger 13",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 13",
+        "telefon": "07234-56789",
+        "email": "kontakt13@traeger.de",
+        "website": "https://traeger13.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 61",
+      "plz": "15340",
+      "ort": "Stadt 1",
+      "bundesland": "Sachsen",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 8.0
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 62",
+    "traeger": {
+      "name": "Träger 13",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 13",
+        "telefon": "07234-56789",
+        "email": "kontakt13@traeger.de",
+        "website": "https://traeger13.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 62",
+      "plz": "15429",
+      "ort": "Stadt 2",
+      "bundesland": "Sachsen-Anhalt",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 8.7
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 63",
+    "traeger": {
+      "name": "Träger 13",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 13",
+        "telefon": "07234-56789",
+        "email": "kontakt13@traeger.de",
+        "website": "https://traeger13.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 63",
+      "plz": "15518",
+      "ort": "Stadt 3",
+      "bundesland": "Schleswig-Holstein",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 9.4
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 64",
+    "traeger": {
+      "name": "Träger 13",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 13",
+        "telefon": "07234-56789",
+        "email": "kontakt13@traeger.de",
+        "website": "https://traeger13.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 64",
+      "plz": "15607",
+      "ort": "Stadt 4",
+      "bundesland": "Thüringen",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 10.1
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 65",
+    "traeger": {
+      "name": "Träger 13",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 13",
+        "telefon": "07234-56789",
+        "email": "kontakt13@traeger.de",
+        "website": "https://traeger13.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 65",
+      "plz": "15696",
+      "ort": "Stadt 5",
+      "bundesland": "Baden-Württemberg",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 10.8
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 66",
+    "traeger": {
+      "name": "Träger 14",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 14",
+        "telefon": "07234-56789",
+        "email": "kontakt14@traeger.de",
+        "website": "https://traeger14.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 66",
+      "plz": "15785",
+      "ort": "Stadt 6",
+      "bundesland": "Bayern",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 11.5
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 67",
+    "traeger": {
+      "name": "Träger 14",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 14",
+        "telefon": "07234-56789",
+        "email": "kontakt14@traeger.de",
+        "website": "https://traeger14.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 67",
+      "plz": "15874",
+      "ort": "Stadt 7",
+      "bundesland": "Berlin",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 12.2
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 68",
+    "traeger": {
+      "name": "Träger 14",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 14",
+        "telefon": "07234-56789",
+        "email": "kontakt14@traeger.de",
+        "website": "https://traeger14.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 68",
+      "plz": "15963",
+      "ort": "Stadt 8",
+      "bundesland": "Brandenburg",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 12.899999999999999
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 69",
+    "traeger": {
+      "name": "Träger 14",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 14",
+        "telefon": "07234-56789",
+        "email": "kontakt14@traeger.de",
+        "website": "https://traeger14.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 69",
+      "plz": "16052",
+      "ort": "Stadt 9",
+      "bundesland": "Bremen",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 13.6
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 70",
+    "traeger": {
+      "name": "Träger 14",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 14",
+        "telefon": "07234-56789",
+        "email": "kontakt14@traeger.de",
+        "website": "https://traeger14.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 70",
+      "plz": "16141",
+      "ort": "Stadt 10",
+      "bundesland": "Hamburg",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 14.3
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 71",
+    "traeger": {
+      "name": "Träger 15",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 15",
+        "telefon": "08234-56789",
+        "email": "kontakt15@traeger.de",
+        "website": "https://traeger15.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 71",
+      "plz": "16230",
+      "ort": "Stadt 11",
+      "bundesland": "Hessen",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 15.0
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 72",
+    "traeger": {
+      "name": "Träger 15",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 15",
+        "telefon": "08234-56789",
+        "email": "kontakt15@traeger.de",
+        "website": "https://traeger15.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 72",
+      "plz": "16319",
+      "ort": "Stadt 12",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 15.7
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 73",
+    "traeger": {
+      "name": "Träger 15",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 15",
+        "telefon": "08234-56789",
+        "email": "kontakt15@traeger.de",
+        "website": "https://traeger15.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 73",
+      "plz": "16408",
+      "ort": "Stadt 13",
+      "bundesland": "Niedersachsen",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 16.4
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 74",
+    "traeger": {
+      "name": "Träger 15",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 15",
+        "telefon": "08234-56789",
+        "email": "kontakt15@traeger.de",
+        "website": "https://traeger15.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 74",
+      "plz": "16497",
+      "ort": "Stadt 14",
+      "bundesland": "Nordrhein-Westfalen",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 17.1
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 75",
+    "traeger": {
+      "name": "Träger 15",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 15",
+        "telefon": "08234-56789",
+        "email": "kontakt15@traeger.de",
+        "website": "https://traeger15.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 75",
+      "plz": "16586",
+      "ort": "Stadt 15",
+      "bundesland": "Rheinland-Pfalz",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 17.799999999999997
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 76",
+    "traeger": {
+      "name": "Träger 16",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 16",
+        "telefon": "08234-56789",
+        "email": "kontakt16@traeger.de",
+        "website": "https://traeger16.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 76",
+      "plz": "16675",
+      "ort": "Stadt 16",
+      "bundesland": "Saarland",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 8.0
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 77",
+    "traeger": {
+      "name": "Träger 16",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 16",
+        "telefon": "08234-56789",
+        "email": "kontakt16@traeger.de",
+        "website": "https://traeger16.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 77",
+      "plz": "16764",
+      "ort": "Stadt 17",
+      "bundesland": "Sachsen",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 8.7
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 78",
+    "traeger": {
+      "name": "Träger 16",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 16",
+        "telefon": "08234-56789",
+        "email": "kontakt16@traeger.de",
+        "website": "https://traeger16.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 78",
+      "plz": "16853",
+      "ort": "Stadt 18",
+      "bundesland": "Sachsen-Anhalt",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 9.4
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 79",
+    "traeger": {
+      "name": "Träger 16",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 16",
+        "telefon": "08234-56789",
+        "email": "kontakt16@traeger.de",
+        "website": "https://traeger16.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 79",
+      "plz": "16942",
+      "ort": "Stadt 19",
+      "bundesland": "Schleswig-Holstein",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 10.1
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 80",
+    "traeger": {
+      "name": "Träger 16",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 16",
+        "telefon": "08234-56789",
+        "email": "kontakt16@traeger.de",
+        "website": "https://traeger16.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 80",
+      "plz": "17031",
+      "ort": "Stadt 20",
+      "bundesland": "Thüringen",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 10.8
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 81",
+    "traeger": {
+      "name": "Träger 17",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 17",
+        "telefon": "09234-56789",
+        "email": "kontakt17@traeger.de",
+        "website": "https://traeger17.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 81",
+      "plz": "17120",
+      "ort": "Stadt 1",
+      "bundesland": "Baden-Württemberg",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 11.5
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 82",
+    "traeger": {
+      "name": "Träger 17",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 17",
+        "telefon": "09234-56789",
+        "email": "kontakt17@traeger.de",
+        "website": "https://traeger17.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 82",
+      "plz": "17209",
+      "ort": "Stadt 2",
+      "bundesland": "Bayern",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 12.2
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 83",
+    "traeger": {
+      "name": "Träger 17",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 17",
+        "telefon": "09234-56789",
+        "email": "kontakt17@traeger.de",
+        "website": "https://traeger17.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 83",
+      "plz": "17298",
+      "ort": "Stadt 3",
+      "bundesland": "Berlin",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 12.899999999999999
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 84",
+    "traeger": {
+      "name": "Träger 17",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 17",
+        "telefon": "09234-56789",
+        "email": "kontakt17@traeger.de",
+        "website": "https://traeger17.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 84",
+      "plz": "17387",
+      "ort": "Stadt 4",
+      "bundesland": "Brandenburg",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 13.6
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 85",
+    "traeger": {
+      "name": "Träger 17",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 17",
+        "telefon": "09234-56789",
+        "email": "kontakt17@traeger.de",
+        "website": "https://traeger17.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 85",
+      "plz": "17476",
+      "ort": "Stadt 5",
+      "bundesland": "Bremen",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 14.3
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 86",
+    "traeger": {
+      "name": "Träger 18",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 18",
+        "telefon": "09234-56789",
+        "email": "kontakt18@traeger.de",
+        "website": "https://traeger18.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 86",
+      "plz": "17565",
+      "ort": "Stadt 6",
+      "bundesland": "Hamburg",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 15.0
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 87",
+    "traeger": {
+      "name": "Träger 18",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 18",
+        "telefon": "09234-56789",
+        "email": "kontakt18@traeger.de",
+        "website": "https://traeger18.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 87",
+      "plz": "17654",
+      "ort": "Stadt 7",
+      "bundesland": "Hessen",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 15.7
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 88",
+    "traeger": {
+      "name": "Träger 18",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 18",
+        "telefon": "09234-56789",
+        "email": "kontakt18@traeger.de",
+        "website": "https://traeger18.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 88",
+      "plz": "17743",
+      "ort": "Stadt 8",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 16.4
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 89",
+    "traeger": {
+      "name": "Träger 18",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 18",
+        "telefon": "09234-56789",
+        "email": "kontakt18@traeger.de",
+        "website": "https://traeger18.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 89",
+      "plz": "17832",
+      "ort": "Stadt 9",
+      "bundesland": "Niedersachsen",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 17.1
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 90",
+    "traeger": {
+      "name": "Träger 18",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 18",
+        "telefon": "09234-56789",
+        "email": "kontakt18@traeger.de",
+        "website": "https://traeger18.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 90",
+      "plz": "17921",
+      "ort": "Stadt 10",
+      "bundesland": "Nordrhein-Westfalen",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 17.799999999999997
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 91",
+    "traeger": {
+      "name": "Träger 19",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 19",
+        "telefon": "010234-56789",
+        "email": "kontakt19@traeger.de",
+        "website": "https://traeger19.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 91",
+      "plz": "18010",
+      "ort": "Stadt 11",
+      "bundesland": "Rheinland-Pfalz",
+      "koordinaten": {
+        "lat": 48.0,
+        "lng": 8.0
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 6,
+      "max": 18
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 6
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 6 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 92",
+    "traeger": {
+      "name": "Träger 19",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 19",
+        "telefon": "010234-56789",
+        "email": "kontakt19@traeger.de",
+        "website": "https://traeger19.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 92",
+      "plz": "18099",
+      "ort": "Stadt 12",
+      "bundesland": "Saarland",
+      "koordinaten": {
+        "lat": 48.5,
+        "lng": 8.7
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 7,
+      "max": 19
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 7
+    },
+    "spezialisierungen": [
+      "Suchtprävention",
+      "Autismus-Spektrum"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 7 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 93",
+    "traeger": {
+      "name": "Träger 19",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 19",
+        "telefon": "010234-56789",
+        "email": "kontakt19@traeger.de",
+        "website": "https://traeger19.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 93",
+      "plz": "18188",
+      "ort": "Stadt 13",
+      "bundesland": "Sachsen",
+      "koordinaten": {
+        "lat": 49.0,
+        "lng": 9.4
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 8,
+      "max": 20
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 8
+    },
+    "spezialisierungen": [
+      "Schulverweigerung",
+      "ADHS"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 8 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 94",
+    "traeger": {
+      "name": "Träger 19",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 19",
+        "telefon": "010234-56789",
+        "email": "kontakt19@traeger.de",
+        "website": "https://traeger19.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 94",
+      "plz": "18277",
+      "ort": "Stadt 14",
+      "bundesland": "Sachsen-Anhalt",
+      "koordinaten": {
+        "lat": 49.5,
+        "lng": 10.1
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 9,
+      "max": 21
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 9
+    },
+    "spezialisierungen": [
+      "Aggressionsmanagement",
+      "Bindungsstörungen"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 9 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 95",
+    "traeger": {
+      "name": "Träger 19",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 19",
+        "telefon": "010234-56789",
+        "email": "kontakt19@traeger.de",
+        "website": "https://traeger19.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 95",
+      "plz": "18366",
+      "ort": "Stadt 15",
+      "bundesland": "Schleswig-Holstein",
+      "koordinaten": {
+        "lat": 50.0,
+        "lng": 10.8
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 10,
+      "max": 22
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 10
+    },
+    "spezialisierungen": [
+      "Autismus-Spektrum",
+      "Essstörungen"
+    ],
+    "handicaps": [
+      "Psychische Erkrankung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 10 bis 22 Jahren."
+  },
+  {
+    "name": "Wohngruppe 96",
+    "traeger": {
+      "name": "Träger 20",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 20",
+        "telefon": "010234-56789",
+        "email": "kontakt20@traeger.de",
+        "website": "https://traeger20.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 96",
+      "plz": "18455",
+      "ort": "Stadt 16",
+      "bundesland": "Thüringen",
+      "koordinaten": {
+        "lat": 50.5,
+        "lng": 11.5
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 11,
+      "max": 18
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 11
+    },
+    "spezialisierungen": [
+      "ADHS",
+      "Selbstverletzendes Verhalten"
+    ],
+    "handicaps": [
+      "Sprachstörung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 11 bis 18 Jahren."
+  },
+  {
+    "name": "Wohngruppe 97",
+    "traeger": {
+      "name": "Träger 20",
+      "typ": "öffentlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 20",
+        "telefon": "010234-56789",
+        "email": "kontakt20@traeger.de",
+        "website": "https://traeger20.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 97",
+      "plz": "18544",
+      "ort": "Stadt 17",
+      "bundesland": "Baden-Württemberg",
+      "koordinaten": {
+        "lat": 51.0,
+        "lng": 12.2
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§34"
+    ],
+    "altersbereich": {
+      "min": 12,
+      "max": 19
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 12
+    },
+    "spezialisierungen": [
+      "Bindungsstörungen",
+      "Traumapädagogik"
+    ],
+    "handicaps": [
+      "Lernbehinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 12 bis 19 Jahren."
+  },
+  {
+    "name": "Wohngruppe 98",
+    "traeger": {
+      "name": "Träger 20",
+      "typ": "privat",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 20",
+        "telefon": "010234-56789",
+        "email": "kontakt20@traeger.de",
+        "website": "https://traeger20.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 98",
+      "plz": "18633",
+      "ort": "Stadt 18",
+      "bundesland": "Bayern",
+      "koordinaten": {
+        "lat": 51.5,
+        "lng": 12.899999999999999
+      }
+    },
+    "art": [
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§35"
+    ],
+    "altersbereich": {
+      "min": 13,
+      "max": 20
+    },
+    "geschlecht": "weiblich",
+    "platzzahl": {
+      "gesamt": 13
+    },
+    "spezialisierungen": [
+      "Essstörungen",
+      "Suchtprävention"
+    ],
+    "handicaps": [
+      "Körperliche Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 13 bis 20 Jahren."
+  },
+  {
+    "name": "Wohngruppe 99",
+    "traeger": {
+      "name": "Träger 20",
+      "typ": "kirchlich",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 20",
+        "telefon": "010234-56789",
+        "email": "kontakt20@traeger.de",
+        "website": "https://traeger20.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 99",
+      "plz": "18722",
+      "ort": "Stadt 19",
+      "bundesland": "Berlin",
+      "koordinaten": {
+        "lat": 52.0,
+        "lng": 13.6
+      }
+    },
+    "art": [
+      "heilpädagogisch"
+    ],
+    "paragraphen": [
+      "§35a"
+    ],
+    "altersbereich": {
+      "min": 14,
+      "max": 21
+    },
+    "geschlecht": "gemischt",
+    "platzzahl": {
+      "gesamt": 14
+    },
+    "spezialisierungen": [
+      "Selbstverletzendes Verhalten",
+      "Schulverweigerung"
+    ],
+    "handicaps": [
+      "Geistige Behinderung"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 14 bis 21 Jahren."
+  },
+  {
+    "name": "Wohngruppe 100",
+    "traeger": {
+      "name": "Träger 20",
+      "typ": "gemeinnützig",
+      "kontakt": {
+        "ansprechpartner": "Ansprechpartner 20",
+        "telefon": "010234-56789",
+        "email": "kontakt20@traeger.de",
+        "website": "https://traeger20.de"
+      }
+    },
+    "adresse": {
+      "strasse": "Beispielstraße 100",
+      "plz": "18811",
+      "ort": "Stadt 20",
+      "bundesland": "Brandenburg",
+      "koordinaten": {
+        "lat": 52.5,
+        "lng": 14.3
+      }
+    },
+    "art": [
+      "stationär",
+      "teilstationär"
+    ],
+    "paragraphen": [
+      "§41"
+    ],
+    "altersbereich": {
+      "min": 15,
+      "max": 22
+    },
+    "geschlecht": "männlich",
+    "platzzahl": {
+      "gesamt": 15
+    },
+    "spezialisierungen": [
+      "Traumapädagogik",
+      "Aggressionsmanagement"
+    ],
+    "handicaps": [
+      "Verhaltensauffälligkeit"
+    ],
+    "beschreibung": "Dies ist eine Beispiel-Wohngruppe für die Entwicklung des WHG Finders. Sie bietet Platz für Kinder und Jugendliche im Alter von 15 bis 22 Jahren."
+  }
+]
