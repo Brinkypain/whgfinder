@@ -1,0 +1,35 @@
+{
+  "name": "whgfinder",
+  "version": "1.0.0",
+  "description": "Eine Webanwendung zur Suche nach passenden Wohngruppen für Kinder und Jugendliche in Deutschland.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brinkypain/whgfinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brinkypain/whgfinder/issues"
+  },
+  "homepage": "https://github.com/brinkypain/whgfinder#readme",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.7",
+    "@mui/material": "^6.4.7",
+    "axios": "^1.8.3",
+    "leaflet": "^1.9.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-leaflet": "^5.0.0",
+    "react-router-dom": "^7.3.0"
+  }
+}
